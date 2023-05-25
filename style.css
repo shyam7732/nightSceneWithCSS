@@ -31,7 +31,7 @@
 }
 .stars {
     background: #000 
-      url(http://www.script-tutorials.com/demos/360/images/stars.png) 
+      url(img/stars.png) 
       repeat 
       top 
       center;
@@ -39,7 +39,7 @@
 }
 .twinkl{
     background: transparent 
-      url(http://www.script-tutorials.com/demos/360/images/twinkling.png) 
+      url(img/twinkling.png) 
       repeat 
       top 
       center;
